@@ -1,4 +1,18 @@
 body{
   margin:0px;
-  padding:0px;
+  padding:4vw;
+  background-color: white;
+  background-color: pink;
+}
+#canvas{
+	background-color: black;
+	width: 92vw;
+}
+#colPickCon{
+		display: flex;
+		justify-content: space-between;
+}
+#dis{
+	overflow-y: scroll;
+	height: 50vh;
 }
